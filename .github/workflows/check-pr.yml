@@ -4,5 +4,5 @@ on:
   pull_request:
 
 jobs:
-  check-pr:
+  check-pr2:
     uses: nginx/ci-self-hosted/.github/workflows/nginx-check-pr.yml@main
